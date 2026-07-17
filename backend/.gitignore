@@ -1,0 +1,8 @@
+.env
+.env.*
+!.env.example
+
+vendor/
+.phpunit.result.cache
+var/
+storage/logs/
