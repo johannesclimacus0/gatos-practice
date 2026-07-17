@@ -1,7 +1,7 @@
 
 ## Учебный PHP + React проект 
 
-Разрабатывался во время изучения PHP, а конкретно, REST, Guzzle, Eloquent, Doctrine, PhpUnit.
+Разрабатывался во время изучения PHP, в частности REST, Guzzle, Eloquent, Doctrine, PhpUnit.
 
 
 ## В ходе изучения реализовано
