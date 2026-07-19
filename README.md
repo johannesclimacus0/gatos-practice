@@ -22,7 +22,7 @@ cp backend/.env.example backend/.env
 ```
 Создайте **frontend**-env:
 ```
-cp backend/.env.example frontend/.env
+cp frontend/.env.example frontend/.env
 ```
 Запустите с помощью **docker compose**
 ```
