@@ -30,7 +30,7 @@ docker compose up -d --build
 ```
 Примените **Doctrine**-миграции
 ```
-./vendor/bin/doctrine-migrations migrations:status
+./vendor/bin/doctrine-migrations migrations:migrate
 ``` 
 ## Технологии
 | Frontend    | Backend             |Infrastructure |
